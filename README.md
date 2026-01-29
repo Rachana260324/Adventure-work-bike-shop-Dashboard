@@ -33,8 +33,7 @@ Excel – Data validation and preprocessing
 
 📌 Interactive Filters & Drill-downs for deep analysis
 
-**🔄 Data Pipeline Architecture
-**
+**Data Pipeline architecture**
 Source Data – Raw sales and customer data
 
 ETL Process – Data ingestion and transformation using ADF & SQL
@@ -45,8 +44,7 @@ Semantic Layer – Data modeling & DAX calculations in Power BI
 
 Visualization – Interactive dashboards for business users
 
-**
-🎯 Business Value**
+**🎯 Business Value**
 
 Improves sales forecasting accuracy
 
